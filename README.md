@@ -111,3 +111,6 @@ npx prisma migrate dev --name init
 
 MIT
 # graffitiwall
+
+<img width="982" height="966" alt="Screenshot 2025-11-19 at 5 44 42 PM" src="https://github.com/user-attachments/assets/2feda230-ca1c-4aca-9cd9-5dc58eb4ecb7" />
+
